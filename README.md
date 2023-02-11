@@ -7,6 +7,7 @@
 
 <h3>Aulas</h3>
 
-<h4>[10/02/2023 - Aula 01 - Programação Orientada a Objeto e Qualidade de Código](./Aula01/README.md)<h4>
-<h4>[11/02/2023 - Aula 02 - Programação Orientada a Objeto e Qualidade de Código](./Aula02/README.md)<h4>
+[:calendar: 10/02/2023 - :blue_book: Aula 01 - Programação Orientada a Objeto e Qualidade de Código](./Aula01/README.md)
+<br/>
+[:calendar: 11/02/2023 - :blue_book: Aula 02 - Programação Orientada a Objeto e Qualidade de Código](./Aula02/README.md)
 
